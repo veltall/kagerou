@@ -1,0 +1,31 @@
+/* my personal custom stylesheet for 
+ * Kagerou ACT Overlay (FFXIV)
+ * Author: github.com/veltall
+ * Date: May 12 2017
+ */
+
+.flex-column.flex-column-etc-death {
+	text-align: center;
+}
+
+.flex-column.flex-column-deal-miss {
+	text-align: center
+}
+
+.flex-column.flex-column-deal-maxhit {
+	text-align: right;
+	margin-right: 15px;
+}
+
+.gauge {
+	margin-bottom: 6px;
+	-webkit-filter: blur(0.06rem);
+}
+
+.flex-column {
+	font-size: 19px;
+}
+
+#table > li {
+	margin-bottom: 3px;
+}
